@@ -1,0 +1,155 @@
+				theta=0 rad
+<---- Stationary Solver 1 in Study 1/Solution 1 (sol1) -------------------------
+Nonlinear solver
+Number of degrees of freedom solved for: 3816 (plus 1 internal DOFs).
+Nonsymmetric matrix found.
+Scales for dependent variables:
+Pressure (comp1.p): 0.0017
+Velocity field (comp1.u): 1
+Orthonormal null-space function used.
+Iter      SolEst      ResEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1         5.2          89   0.0010000         5.3    3    1    3  2.6e-15  2.3e-15
+   2         5.6     2.5e+04   0.0016935         5.6    4    2    5  1.6e-15  2.3e-15
+   3         5.3     6.2e+04   0.0047151         5.3    5    3    7    2e-15  2.5e-15
+   4         5.2     4.3e+06   0.0447859         5.4    6    4    9  6.8e-16  3.2e-15
+   5         1.3     3.9e+08   0.4478588         1.1    7    5   11  1.4e-15  6.6e-15
+   6         3.1     3.6e+08   0.0826354         3.4    8    6   13  1.3e-15  3.1e-15
+   7        0.23       4e+08   0.8263542        0.61    9    7   15  5.1e-16  5.1e-15
+   8      0.0045     1.9e+07   1.0000000        0.19   10    8   17  1.5e-15  3.8e-15
+   9     0.00081     1.1e+06   1.0000000      0.0051   12    9   19    4e-15  2.3e-15
+Solution time: 1 s.
+Physical memory: 1.22 GB
+Virtual memory: 1.33 GB
+----- Stationary Solver 1 in Study 1/Solution 1 (sol1) ------------------------>
+
+					theta=0.17453 rad
+<---- Stationary Solver 1 in Study 1/Solution 2 (sol2) -------------------------
+Started at Sep 25, 2023, 8:14:13 PM.
+Nonlinear solver
+Number of degrees of freedom solved for: 3735 (plus 1 internal DOFs).
+Nonsymmetric matrix found.
+Scales for dependent variables:
+Pressure (comp1.p): 0.0016
+Velocity field (comp1.u): 1
+Orthonormal null-space function used.
+Iter      SolEst      ResEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1         5.1          89   0.0100000         5.1    2    1    2  1.5e-15  2.3e-15
+   2         4.4     7.2e+05   0.0934278         4.8    3    2    4  1.3e-15  4.9e-15
+   3         1.7     9.1e+06   0.3582331         1.7    4    3    6  1.1e-15    8e-15
+   4         2.2     8.4e+06   0.0966430         2.4    5    4    8  5.9e-16  5.3e-15
+   5        0.21       2e+07   0.9285245        0.52    6    5   10  2.1e-15    1e-14
+   6      0.0021       2e+05   1.0000000        0.16    7    6   12  7.5e-16  5.5e-15
+   7     0.00037     1.4e+04   1.0000000      0.0031    9    7   14  6.1e-15    4e-15
+Solution time: 1 s.
+Physical memory: 1.08 GB
+Virtual memory: 1.24 GB
+Ended at Sep 25, 2023, 8:14:14 PM.
+----- Stationary Solver 1 in Study 1/Solution 2 (sol2) ------------------------>
+
+
+					theta=0.34907 rad
+<---- Stationary Solver 1 in Study 1/Solution 3 (sol3) -------------------------
+Started at Sep 25, 2023, 8:14:16 PM.
+Nonlinear solver
+Number of degrees of freedom solved for: 3753 (plus 1 internal DOFs).
+Nonsymmetric matrix found.
+Scales for dependent variables:
+Pressure (comp1.p): 0.0016
+Velocity field (comp1.u): 1
+Orthonormal null-space function used.
+Iter      SolEst      ResEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1         5.1          89   0.0100000         5.1    2    1    2  2.2e-15  2.3e-15
+   2           5     1.2e+05   0.0414758         5.3    3    2    4  2.4e-15  3.6e-15
+   3         1.7     2.4e+06   0.2147903           2    4    3    6  1.1e-15    7e-15
+   4           3     2.4e+06   0.1030327         3.3    5    4    8  3.5e-15  5.1e-15
+   5        0.86     4.5e+06   0.3576594         1.2    6    5   10  9.8e-16  6.4e-15
+   6        0.24     5.8e+06   0.6682114        0.53    7    6   12  2.1e-15  7.4e-15
+   7       0.011     1.1e+06   1.0000000         0.2    8    7   14  1.5e-15  8.3e-15
+   8     0.00046     7.6e+03   1.0000000       0.011   10    8   16  5.3e-15  1.4e-15
+Solution time: 1 s.
+Physical memory: 1.13 GB
+Virtual memory: 1.28 GB
+Ended at Sep 25, 2023, 8:14:17 PM.
+----- Stationary Solver 1 in Study 1/Solution 3 (sol3) ------------------------>
+
+
+					theta=0.5236 rad
+<---- Stationary Solver 1 in Study 1/Solution 4 (sol4) -------------------------
+Started at Sep 25, 2023, 8:14:18 PM.
+Nonlinear solver
+Number of degrees of freedom solved for: 3795 (plus 1 internal DOFs).
+Nonsymmetric matrix found.
+Scales for dependent variables:
+Pressure (comp1.p): 0.0016
+Velocity field (comp1.u): 1
+Orthonormal null-space function used.
+Iter      SolEst      ResEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1         5.2          88   0.0100000         5.2    2    1    2  1.6e-15  2.3e-15
+   2         5.2     5.9e+04   0.0266858         5.3    3    2    4  9.6e-16  3.2e-15
+   3         3.3       4e+05   0.1016178         3.6    4    3    6  7.3e-16    5e-15
+   4         1.7     2.7e+06   0.2926292         1.9    5    4    8  1.2e-15  6.2e-15
+   5         1.7     2.5e+06   0.1347426         1.9    6    5   10  1.2e-15  4.7e-15
+   6        0.27     6.6e+06   0.7660176        0.59    7    6   12  6.1e-16  7.9e-15
+   7      0.0087     5.9e+05   1.0000000        0.22    8    7   14  1.2e-15  7.3e-15
+   8     0.00061     8.8e+03   1.0000000      0.0089   10    8   16  2.7e-15  1.7e-15
+Solution time: 1 s.
+Physical memory: 1.16 GB
+Virtual memory: 1.31 GB
+Ended at Sep 25, 2023, 8:14:19 PM.
+----- Stationary Solver 1 in Study 1/Solution 4 (sol4) ------------------------>
+
+					theta=0.69813 rad
+
+<---- Stationary Solver 1 in Study 1/Solution 5 (sol5) -------------------------
+Started at Sep 25, 2023, 8:14:20 PM.
+Nonlinear solver
+Number of degrees of freedom solved for: 3801 (plus 1 internal DOFs).
+Nonsymmetric matrix found.
+Scales for dependent variables:
+Pressure (comp1.p): 0.0017
+Velocity field (comp1.u): 1
+Orthonormal null-space function used.
+Iter      SolEst      ResEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1         5.2          89   0.0010000         5.2    3    1    3  2.6e-15  2.3e-15
+   2         5.5     3.3e+04   0.0019445         5.5    4    2    5  1.9e-15  2.4e-15
+   3         5.3     1.1e+05   0.0058890         5.3    5    3    7  8.2e-16  2.7e-15
+   4         5.1     7.2e+06   0.0528230         5.4    6    4    9  1.3e-15  3.5e-15
+   5         1.7     5.6e+08   0.4991884         1.1    7    5   11  2.3e-15  6.5e-15
+   6         2.7     5.2e+08   0.0886031           3    8    6   13  1.1e-15  3.4e-15
+   7        0.17     4.3e+08   0.8860312        0.56    9    7   15  4.7e-16    6e-15
+   8      0.0026     1.3e+07   1.0000000        0.15   10    8   17  2.1e-15  2.4e-15
+   9     0.00064       1e+06   1.0000000      0.0034   12    9   19  2.9e-15  2.7e-15
+Solution time: 1 s.
+Physical memory: 1.2 GB
+Virtual memory: 1.31 GB
+Ended at Sep 25, 2023, 8:14:21 PM.
+----- Stationary Solver 1 in Study 1/Solution  5(sol5) ------------------------>
+
+					theta=0.7854 rad
+
+<---- Stationary Solver 1 in Study 1/Solution 6(sol6) -------------------------
+Started at Sep 25, 2023, 8:14:22 PM.
+Nonlinear solver
+Number of degrees of freedom solved for: 3816 (plus 1 internal DOFs).
+Nonsymmetric matrix found.
+Scales for dependent variables:
+Pressure (comp1.p): 0.0017
+Velocity field (comp1.u): 1
+Orthonormal null-space function used.
+Iter      SolEst      ResEst     Damping    Stepsize #Res #Jac #Sol   LinErr   LinRes
+   1         5.2          89   0.0010000         5.3    3    1    3  2.6e-15  2.3e-15
+   2         5.6     2.5e+04   0.0016935         5.6    4    2    5  1.6e-15  2.3e-15
+   3         5.3     6.2e+04   0.0047151         5.3    5    3    7    2e-15  2.5e-15
+   4         5.2     4.3e+06   0.0447859         5.4    6    4    9  6.8e-16  3.2e-15
+   5         1.3     3.9e+08   0.4478588         1.1    7    5   11  1.4e-15  6.6e-15
+   6         3.1     3.6e+08   0.0826354         3.4    8    6   13  1.3e-15  3.1e-15
+   7        0.23       4e+08   0.8263542        0.61    9    7   15  5.1e-16  5.1e-15
+   8      0.0045     1.9e+07   1.0000000        0.19   10    8   17  1.5e-15  3.8e-15
+   9     0.00081     1.1e+06   1.0000000      0.0051   12    9   19    4e-15  2.3e-15
+Solution time: 1 s.
+Physical memory: 1.22 GB
+Virtual memory: 1.33 GB
+Ended at Sep 25, 2023, 8:14:23 PM.
+----- Stationary Solver 1 in Study 1/Solution 6 (sol6) ------------------------>
+
+
